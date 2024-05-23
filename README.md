@@ -1,2 +1,5 @@
 # Get_next_line
-Modified version of the function readline which reads till newline or eof(end of file)
+
+
+# Get_Next_Line
+Modified version of the function readline which reads content line by line from a file descriptor and returns the line.
